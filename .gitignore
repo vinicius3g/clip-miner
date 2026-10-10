@@ -1,0 +1,14 @@
+node_modules/
+dist/
+
+.env
+
+data/
+output/
+videos/
+models/
+
+!**/.gitkeep
+
+*.log
+.DS_Store
